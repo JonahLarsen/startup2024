@@ -1,0 +1,1 @@
+In the GitHub assignment I reinforced some important concepts that I haven't used in a little bit. Specifically it was useful to review how to handle merge conflicts in my repositories. It will also be useful to learn how to write in markdown because I haven't done that very much.
